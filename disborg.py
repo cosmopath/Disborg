@@ -79,6 +79,10 @@ async def xkcd (ctx, comic):
 	if (comic == "latest"):
 		embed = discord.Embed(title = xk.getLatestComic().getTitle(), description = xk.getLatestComic().getAltText())
 		embed.set_image(url=xk.getLatestComic().getImageLink())
+	elif (comic == "random"):
+		rand = xk.getRandomComic();
+		embed = discord.Embed(title = rand.getTitle(), description = rand.getAltText())
+		embed.set_image(url=rand.getImageLink())
 	else:
 		embed = discord.Embed(title = xk.getComic(comic, silent=False).getTitle(), description = xk.getComic(comic, silent=False).getAltText())
 		embed.set_image(url=xk.getComic(comic, silent=False).getImageLink())
