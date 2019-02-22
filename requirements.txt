@@ -1,3 +1,5 @@
+async==0.6.2
+discord.py-rw==1.0.0a0.post2
 geopy==1.18.1
 xkcd==2.4.2
 CurrencyConverter==0.13.8
