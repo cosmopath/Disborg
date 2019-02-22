@@ -158,7 +158,7 @@ async def stock (ctx, ticker, info):
 # Amazon affiliate auto-add
 @bot.event
 async def on_message(message):
-	if message.author.id != "533881524924186624":
+	if message.author.id != "BOT USER ID HERE":
 		if "https://www.amazon.com" in message.content.lower():
 			regex = re.compile('B[A-Z0-9]{9}')
 			result = regex.search(message.content)

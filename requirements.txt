@@ -1,0 +1,5 @@
+geopy==1.18.1
+xkcd==2.4.2
+CurrencyConverter==0.13.8
+googletrans==2.4.0
+yahoofinancials==1.5
