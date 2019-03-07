@@ -1,4 +1,4 @@
-# Disborg, a custom Discord bot written by Justin Cuozzo / Cosmopath#0001
+# Disborg, a custom Discord bot written by Justin Cuozzo / Cosmopath#0234
 # This bot makes use of the alpha rewrite version of the discord.py API, as well as various third-party libraries to help commands work.
 # Licensed under the GNU GPLv3 open-source license. To learn more about the GNU GPLv3, read the full licensing terms here: https://www.gnu.org/licenses/gpl-3.0.en.html
 # Last updated: January 13, 2019
