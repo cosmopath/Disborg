@@ -1,4 +1,4 @@
-## A custom Discord bot written in Python. 
+A custom Discord bot written in Python. 
 
 # Features
 - Currency converter 
