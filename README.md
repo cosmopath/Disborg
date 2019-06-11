@@ -8,3 +8,10 @@ A custom Discord bot written in Python.
 - Unit conversions
 - Translate any language to English
 - Dice roll
+
+## Usage
+1. Install the latest version of Python. 
+2. Install all dependencies in requirements.txt. 
+3. Edit disborg.py with your bot's token.
+4. Run disborg.py.
+
