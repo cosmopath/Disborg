@@ -1,6 +1,6 @@
 A custom Discord bot written in Python. 
 
-# Features
+## Features
 - Currency converter 
 - Stock price grabber
 - Amazon Affiliate link converter
