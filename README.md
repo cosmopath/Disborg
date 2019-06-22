@@ -7,6 +7,7 @@ A custom Discord bot written in Python.
 - xkcd puller (in Discord embeds)
 - Unit conversions
 - Translate any language to English
+- Distance calculator between two real-world locations
 - Dice roll
 
 ## Usage
