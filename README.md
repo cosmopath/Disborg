@@ -16,3 +16,6 @@ A custom Discord bot written in Python.
 3. Edit disborg.py with your bot's token.
 4. Run disborg.py.
 
+## Notes
+This may be a little rough around the edges from a code standpoint - this was my first real Python project so I still had to get a feel for the language. It works great though, nothing to worry about there.
+
